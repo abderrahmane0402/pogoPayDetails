@@ -20,7 +20,6 @@ import {
 } from "@/components/ui/tooltip"
 import { useToast } from "@/components/ui/use-toast"
 import {
-  dataTagSymbol,
   useMutation,
   useQuery,
   useQueryClient,
